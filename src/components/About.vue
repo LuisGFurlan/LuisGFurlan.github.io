@@ -3,7 +3,6 @@
     id="about"
     class="relative min-h-screen bg-primary flex items-center justify-center px-4 scroll-mt-28"
   >
-    <!-- Container Geral -->
     <div class="w-full h-full flex flex-col items-center justify-center md:flex-row md:justify-around">
 
       <!-- Foto, Nome e Profissão -->

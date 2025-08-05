@@ -1,7 +1,5 @@
 <template>
   <div class="min-h-screen bg-primary flex flex-col">
-    
-    <!-- Seção de Competências / Experiência -->
     <section id="contact" class="flex-grow flex items-center justify-center px-4 py-4 scroll-mt-28">
       <div class="w-full flex flex-col items-center gap-6">
         
