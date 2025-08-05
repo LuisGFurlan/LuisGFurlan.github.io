@@ -1,7 +1,7 @@
 <template>
   <section
     id="about"
-    class="relative min-h-screen bg-primary flex items-center justify-center px-4 scroll-mt-28"
+    class="relative min-h-screen bg-primary flex items-center justify-center px-4 scroll-mt-28 pt-[104px]"
   >
     <div class="w-full h-full flex flex-col items-center justify-center md:flex-row md:justify-around">
 
@@ -25,7 +25,7 @@
       </div>
 
       <!-- Texto "Sobre mim" -->
-      <div class="mt-8 md:mt-0 md:w-[600px] text-center md:text-left">
+      <div class=" md:mt-0 md:w-[600px] text-center md:text-left">
         <h2 class="hidden md:block text-4xl font-bold text-indigo-600 w-full">
           Sobre mim:
         </h2>
