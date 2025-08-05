@@ -38,7 +38,6 @@
           só aumenta espontaneamente
           <span class="text-indigo-500 md:text-indigo-600 font-semibold">:)</span>
         </p>
-        <p class="text-xl text-gray-500 mt-8">Em busca do progresso</p>
       </div>
 
     </div>
